@@ -1,1 +1,3 @@
-# karen-demo
+## ABOUT
+
+This is an example repository.
