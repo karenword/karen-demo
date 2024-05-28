@@ -1,5 +1,7 @@
 ## ABOUT
 
-This is an example repository.
+I like this example repository
 
-I'm making a test change.
+I'm totally making a test change.
+
+This is a good change that should be able to stay
